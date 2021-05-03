@@ -1,0 +1,348 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.46.0",
+  "hash": "f2a1d67b2a21eb5139aa",
+  "publicPath": "/static/",
+  "outputPath": "/Users/lucasbendixjolibois/Documents/GitHub/my-wordpress-theme/build/static",
+  "assetsByChunkName": {
+    "archive": "archive.module.js",
+    "archive~post": "archive~post.module.js",
+    "my-wordpress-theme": [
+      "my-wordpress-theme.module.js",
+      "my-wordpress-theme.ecc553b1de09d6e54dc0.hot-update.js"
+    ],
+    "post": "post.module.js"
+  },
+  "assets": [
+    {
+      "name": "archive.module.js",
+      "size": 75419,
+      "chunks": [
+        "archive"
+      ],
+      "chunkNames": [
+        "archive"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "archive~post.module.js",
+      "size": 142896,
+      "chunks": [
+        "archive~post"
+      ],
+      "chunkNames": [
+        "archive~post"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "ecc553b1de09d6e54dc0.hot-update.json",
+      "size": 60,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Bold-LATIN.woff2",
+      "size": 33648,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-Bold-LATIN.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Bold-US-ASCII.woff2",
+      "size": 22248,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-Bold-US-ASCII.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Bold.woff2",
+      "size": 138872,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-Bold.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Medium-LATIN.woff2",
+      "size": 33232,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-Medium-LATIN.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Medium-US-ASCII.woff2",
+      "size": 21828,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-Medium-US-ASCII.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-Medium.woff2",
+      "size": 137268,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-Medium.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-SemiBold-LATIN.woff2",
+      "size": 33456,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-SemiBold-LATIN.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-SemiBold-US-ASCII.woff2",
+      "size": 22032,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-SemiBold-US-ASCII.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "fonts/Inter-SemiBold.woff2",
+      "size": 138088,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "sourceFilename": "packages/twentytwenty-theme/src/fonts/inter/Inter-SemiBold.woff2"
+      },
+      "emitted": false
+    },
+    {
+      "name": "my-wordpress-theme.ecc553b1de09d6e54dc0.hot-update.js",
+      "size": 4929,
+      "chunks": [
+        "my-wordpress-theme"
+      ],
+      "chunkNames": [
+        "my-wordpress-theme"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "my-wordpress-theme.module.js",
+      "size": 7235436,
+      "chunks": [
+        "my-wordpress-theme"
+      ],
+      "chunkNames": [
+        "my-wordpress-theme"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "post.module.js",
+      "size": 38060,
+      "chunks": [
+        "post"
+      ],
+      "chunkNames": [
+        "post"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "my-wordpress-theme": {
+      "chunks": [
+        "my-wordpress-theme"
+      ],
+      "assets": [
+        "my-wordpress-theme.module.js",
+        "my-wordpress-theme.ecc553b1de09d6e54dc0.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "my-wordpress-theme": {
+      "chunks": [
+        "my-wordpress-theme"
+      ],
+      "assets": [
+        "my-wordpress-theme.module.js",
+        "my-wordpress-theme.ecc553b1de09d6e54dc0.hot-update.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "archive": {
+      "chunks": [
+        "archive~post",
+        "archive"
+      ],
+      "assets": [
+        "archive~post.module.js",
+        "archive.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "post": {
+      "chunks": [
+        "archive~post",
+        "post"
+      ],
+      "assets": [
+        "archive~post.module.js",
+        "post.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": "archive",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 52515,
+      "names": [
+        "archive"
+      ],
+      "files": [
+        "archive.module.js"
+      ],
+      "hash": "c4d0653716a2b28f3532",
+      "siblings": [
+        "archive~post"
+      ],
+      "parents": [
+        "my-wordpress-theme"
+      ],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": "archive~post",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "reason": "split chunk (cache group: default) (name: archive~post)",
+      "size": 103437,
+      "names": [
+        "archive~post"
+      ],
+      "files": [
+        "archive~post.module.js"
+      ],
+      "hash": "b3463d6fac64e08b5a2f",
+      "siblings": [
+        "archive",
+        "post"
+      ],
+      "parents": [
+        "my-wordpress-theme"
+      ],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": "my-wordpress-theme",
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 2110795,
+      "names": [
+        "my-wordpress-theme"
+      ],
+      "files": [
+        "my-wordpress-theme.module.js",
+        "my-wordpress-theme.ecc553b1de09d6e54dc0.hot-update.js"
+      ],
+      "hash": "64308579ad824692e664",
+      "siblings": [],
+      "parents": [],
+      "children": [
+        "archive",
+        "archive~post",
+        "post"
+      ],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    },
+    {
+      "id": "post",
+      "rendered": false,
+      "initial": false,
+      "entry": false,
+      "size": 24406,
+      "names": [
+        "post"
+      ],
+      "files": [
+        "post.module.js"
+      ],
+      "hash": "6aacc085b13023ec539b",
+      "siblings": [
+        "archive~post"
+      ],
+      "parents": [
+        "my-wordpress-theme"
+      ],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [],
+      "filteredModules": 0,
+      "origins": []
+    }
+  ],
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": [],
+  "generator": "loadable-components"
+}
