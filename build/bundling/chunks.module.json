@@ -2,19 +2,48 @@
   "errors": [],
   "warnings": [],
   "version": "4.46.0",
-  "hash": "f2a1d67b2a21eb5139aa",
+  "hash": "dd145ace506a8092f666",
   "publicPath": "/static/",
   "outputPath": "/Users/lucasbendixjolibois/Documents/GitHub/my-wordpress-theme/build/static",
   "assetsByChunkName": {
-    "archive": "archive.module.js",
+    "archive": [
+      "archive.module.js",
+      "archive.5d260039b40c8869bac7.hot-update.js"
+    ],
     "archive~post": "archive~post.module.js",
     "my-wordpress-theme": [
       "my-wordpress-theme.module.js",
-      "my-wordpress-theme.ecc553b1de09d6e54dc0.hot-update.js"
+      "my-wordpress-theme.5d260039b40c8869bac7.hot-update.js"
     ],
     "post": "post.module.js"
   },
   "assets": [
+    {
+      "name": "5d260039b40c8869bac7.hot-update.json",
+      "size": 75,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "archive.5d260039b40c8869bac7.hot-update.js",
+      "size": 11221,
+      "chunks": [
+        "archive"
+      ],
+      "chunkNames": [
+        "archive"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
     {
       "name": "archive.module.js",
       "size": 75419,
@@ -37,17 +66,6 @@
         "archive~post"
       ],
       "info": {},
-      "emitted": false
-    },
-    {
-      "name": "ecc553b1de09d6e54dc0.hot-update.json",
-      "size": 60,
-      "chunks": [],
-      "chunkNames": [],
-      "info": {
-        "hotModuleReplacement": true,
-        "immutable": true
-      },
       "emitted": false
     },
     {
@@ -141,8 +159,8 @@
       "emitted": false
     },
     {
-      "name": "my-wordpress-theme.ecc553b1de09d6e54dc0.hot-update.js",
-      "size": 4929,
+      "name": "my-wordpress-theme.5d260039b40c8869bac7.hot-update.js",
+      "size": 23685,
       "chunks": [
         "my-wordpress-theme"
       ],
@@ -188,7 +206,7 @@
       ],
       "assets": [
         "my-wordpress-theme.module.js",
-        "my-wordpress-theme.ecc553b1de09d6e54dc0.hot-update.js"
+        "my-wordpress-theme.5d260039b40c8869bac7.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -201,7 +219,7 @@
       ],
       "assets": [
         "my-wordpress-theme.module.js",
-        "my-wordpress-theme.ecc553b1de09d6e54dc0.hot-update.js"
+        "my-wordpress-theme.5d260039b40c8869bac7.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -213,7 +231,8 @@
       ],
       "assets": [
         "archive~post.module.js",
-        "archive.module.js"
+        "archive.module.js",
+        "archive.5d260039b40c8869bac7.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -234,7 +253,7 @@
   "chunks": [
     {
       "id": "archive",
-      "rendered": false,
+      "rendered": true,
       "initial": false,
       "entry": false,
       "size": 52515,
@@ -242,7 +261,8 @@
         "archive"
       ],
       "files": [
-        "archive.module.js"
+        "archive.module.js",
+        "archive.5d260039b40c8869bac7.hot-update.js"
       ],
       "hash": "c4d0653716a2b28f3532",
       "siblings": [
@@ -295,7 +315,7 @@
       ],
       "files": [
         "my-wordpress-theme.module.js",
-        "my-wordpress-theme.ecc553b1de09d6e54dc0.hot-update.js"
+        "my-wordpress-theme.5d260039b40c8869bac7.hot-update.js"
       ],
       "hash": "64308579ad824692e664",
       "siblings": [],
